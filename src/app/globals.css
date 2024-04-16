@@ -58,10 +58,10 @@ body {
     @apply bg-gray-1;
   }
   .activeNavLink {
-    @apply flex flex-col top-[72px] left-0 w-full fixed bg-gray-1 h-full p-2;
+    @apply flex flex-col top-[72px] left-0 w-full fixed bg-gray-1 h-full px-6 pt-3;
   }
   .activeNavButton {
-    @apply flex flex-col bottom-3 left-0 w-full fixed px-2;
+    @apply flex flex-col bottom-3 left-0 w-full fixed px-6;
   }
 }
 

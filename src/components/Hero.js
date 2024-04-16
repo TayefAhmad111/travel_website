@@ -1,7 +1,5 @@
-import React from "react";
-
 const Hero = () => {
-  return <div>Hero</div>;
+  return <div>Hi, this is Home page, this text is testing purpose</div>;
 };
 
 export default Hero;
